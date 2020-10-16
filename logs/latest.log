@@ -1,0 +1,109 @@
+[15:12:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:12:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:12:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[15:12:43] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[15:12:43] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_261, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_261
+[15:12:43] [main/INFO] [FML]: Searching C:\Users\mixgx\Desktop\Новая папка\.\mods for mods
+[15:12:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:12:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:12:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:12:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[15:12:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:12:45] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[15:12:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[15:12:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[15:12:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:12:45] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[15:12:46] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[15:12:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[15:12:51] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2854 Initialized
+[15:12:51] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[15:12:51] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[15:12:51] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[15:12:52] [Server thread/INFO] [FML]: Searching C:\Users\mixgx\Desktop\Новая папка\.\mods for mods
+[15:12:52] [Server thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[15:12:52] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[15:12:53] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, scp] at CLIENT
+[15:12:53] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, scp] at SERVER
+[15:12:53] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[15:12:53] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[15:12:53] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[15:12:53] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[15:12:54] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[15:12:54] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[15:12:54] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: UP_TO_DATE Target: null
+[15:12:54] [Server thread/INFO] [SCP: Lockdown]: Loaded 0 donor names
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-control_panel`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-item_generator`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-card_reader`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-document_machine`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-computer`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-file_cabinet`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-shelf`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-item_plate`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-sliding_door`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:54] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-desk`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `scp-bloodstone`, expected `scp`. This could be a intended override, but in most cases indicates a broken mod.
+[15:12:55] [Server thread/INFO] [FML]: Applying holder lookups
+[15:12:55] [Server thread/INFO] [FML]: Holder lookups applied
+[15:12:55] [Server thread/INFO] [FML]: Applying holder lookups
+[15:12:55] [Server thread/INFO] [FML]: Holder lookups applied
+[15:12:55] [Server thread/INFO] [SCP: Lockdown]: Registered 67 SCPs
+[15:12:55] [Server thread/INFO] [FML]: Applying holder lookups
+[15:12:55] [Server thread/INFO] [FML]: Holder lookups applied
+[15:12:55] [Server thread/INFO] [FML]: Applying holder lookups
+[15:12:55] [Server thread/INFO] [FML]: Holder lookups applied
+[15:12:55] [Server thread/INFO] [FML]: Injecting itemstacks
+[15:12:55] [Server thread/INFO] [FML]: Itemstack injection complete
+[15:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[15:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[15:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[15:12:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[15:12:55] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using default channel type
+[15:12:56] [Server thread/INFO] [FML]: Applying holder lookups
+[15:12:56] [Server thread/INFO] [FML]: Holder lookups applied
+[15:12:56] [Server thread/INFO] [FML]: Injecting itemstacks
+[15:12:56] [Server thread/INFO] [FML]: Itemstack injection complete
+[15:12:56] [Server thread/INFO] [SCP: Lockdown]: Registered 119 recipes
+[15:12:56] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 mods
+[15:12:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[15:12:56] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@46409a0c)
+[15:12:57] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 489 advancements
+[15:12:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@46409a0c)
+[15:12:57] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@46409a0c)
+[15:12:57] [Server thread/INFO] [FML]: Loading dimension -44 (world) (net.minecraft.server.dedicated.DedicatedServer@46409a0c)
+[15:12:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[15:12:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 10%
+[15:12:59] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 68%
+[15:12:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3,249s)! For help, type "help" or "?"
+[15:13:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[15:13:00] [Server thread/INFO] [FML]: Unloading dimension 1
+[15:13:00] [Server thread/INFO] [FML]: Unloading dimension -44
+[15:13:09] [Netty Server IO #1/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [SCP: Lockdown]
+[15:14:44] [Netty Server IO #2/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [SCP: Lockdown]
+[15:15:27] [Netty Server IO #3/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [SCP: Lockdown]
+[15:17:49] [User Authenticator #1/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Ytconos is efdfd703-98b4-4438-b7eb-e02207398cf4
+[15:17:50] [Netty Server IO #4/INFO] [FML]: Client protocol version 2
+[15:17:50] [Netty Server IO #4/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42
+[15:17:50] [Netty Server IO #4/INFO] [FML]: Attempting connection with missing mods [scp] at CLIENT
+[15:17:50] [Netty Server IO #4/INFO] [FML]: Rejecting connection CLIENT: SCP: Lockdown: Requires version 2.3.1 but mod is not found on client.
+[15:17:50] [Netty Server IO #4/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+SCP: Lockdown: Requires version 2.3.1 but mod is not found on client.
+[15:17:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ytconos lost connection: Server Mod rejections:
+SCP: Lockdown: Requires version 2.3.1 but mod is not found on client.
+[15:17:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ytconos left the game
+[15:19:08] [User Authenticator #2/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player Ytconos is efdfd703-98b4-4438-b7eb-e02207398cf4
+[15:19:08] [Netty Server IO #5/INFO] [FML]: Client protocol version 2
+[15:19:08] [Netty Server IO #5/INFO] [FML]: Client attempting to join with 5 mods : minecraft@1.12.2,scp@2.3.1,FML@8.0.99.99,forge@14.23.5.2854,mcp@9.42
+[15:19:09] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[15:19:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Ytconos[/127.0.0.1:51131] logged in with entity id 292 at (-106.8565889402178, 89.0, 251.59440436965969)
+[15:19:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ytconos joined the game
+[15:22:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Ytconos lost connection: Disconnected
+[15:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Ytconos left the game
+[15:23:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:23:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[15:23:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[15:23:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[15:23:18] [Server thread/INFO] [FML]: Unloading dimension 0
+[15:23:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[15:23:18] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players

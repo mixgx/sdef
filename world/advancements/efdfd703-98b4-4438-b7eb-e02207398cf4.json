@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "taiga": "2020-10-16 15:08:04 +0300",
+      "river": "2020-10-16 15:11:22 +0300",
+      "desert": "2020-10-16 15:11:06 +0300"
+    },
+    "done": false
+  }
+}
